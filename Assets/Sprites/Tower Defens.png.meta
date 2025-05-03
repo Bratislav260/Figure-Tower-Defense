@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: 5c0a5dcfb295a9a48937dbc3959671d1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 600
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Upg-Roket_bottom
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4018
+        width: 806
+        height: 801
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8917f89209f0cab43b6b57ffaa483ab2
+      internalID: -1914052523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roket_bottom
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 4018
+        width: 807
+        height: 801
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae54bf416da109247bcc964dbd4b7e0e
+      internalID: 26762924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_buttom
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 4003
+        width: 845
+        height: 816
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b060cd83577454f9ed168703041198
+      internalID: 116372143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upg-Cannon_buttom
+      rect:
+        serializedVersion: 2
+        x: 3006
+        y: 4003
+        width: 841
+        height: 816
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04834981ec6c348469fe14c1119a5926
+      internalID: 1506190129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery-Emty
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 3973
+        width: 864
+        height: 846
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886254d158be9004cbf55435eda511c4
+      internalID: -249976465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upg-Artillery-Emty
+      rect:
+        serializedVersion: 2
+        x: 4996
+        y: 3976
+        width: 860
+        height: 843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964d37a3fb81b6d4ca45af1480a5991d
+      internalID: 754016126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomb
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 4134
+        width: 378
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c8da1acecd0f34eaf6105528416eda
+      internalID: -1779602648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bullet
+      rect:
+        serializedVersion: 2
+        x: 6709
+        y: 4172
+        width: 365
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a915af0153e40004787e413b899aa4ef
+      internalID: 410356244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Big-Bomb
+      rect:
+        serializedVersion: 2
+        x: 7239
+        y: 4096
+        width: 438
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba335fc9d2e67144bf1ae9cf6848301
+      internalID: -1807665615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3005
+        width: 859
+        height: 887
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b815382662c674c9fbae7cd6353323
+      internalID: 2050114298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roket_launcher
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2970
+        width: 434
+        height: 860
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1e47bb5231fa44a2e9cdf1d81741f
+      internalID: 523132050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon_launcher
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 2943
+        width: 584
+        height: 941
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0f2416428976346bbcdca645750e1a
+      internalID: 57379982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber_buttom
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 2978
+        width: 872
+        height: 866
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbad16505db84a47aaf065bdf73be48
+      internalID: -463522651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WallTower_buttom
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 2940
+        width: 975
+        height: 929
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ec8f672aea5749b2d47c0b5c2a41b
+      internalID: -344024371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roket
+      rect:
+        serializedVersion: 2
+        x: 5192
+        y: 3020
+        width: 322
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c088d322f098e0e4b88864b2b501818d
+      internalID: 1004984855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upg-Roket
+      rect:
+        serializedVersion: 2
+        x: 5687
+        y: 3039
+        width: 325
+        height: 634
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c566af2d33857f048adf973d78c81ec0
+      internalID: 1634560760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Little-Roket
+      rect:
+        serializedVersion: 2
+        x: 6214
+        y: 3089
+        width: 276
+        height: 526
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b1b2c0d0eed5c449d3cf858ef03b12
+      internalID: -172755573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-1
+      rect:
+        serializedVersion: 2
+        x: 7108
+        y: 3446
+        width: 652
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940c9c9749d84ad47b3e003734b349a4
+      internalID: -432968431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire-2
+      rect:
+        serializedVersion: 2
+        x: 7112
+        y: 2974
+        width: 659
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06ca562d3afddd4fbf45c2191cc419e
+      internalID: -380943373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upg-Artillery
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1965
+        width: 862
+        height: 917
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb11f819dba8984eb1d47bb5da34da4
+      internalID: -29594619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upg-Roket_launcher
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1961
+        width: 472
+        height: 936
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e1a8caccaaaff47ae742cf1a6706b3
+      internalID: -1243196426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upg-Cannon_launcher
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 1933
+        width: 744
+        height: 933
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3b5758964dca44a9ecbf2fd1a3553
+      internalID: -77333604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upg-Bomber_buttom
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1979
+        width: 864
+        height: 853
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fb2b164b67f0348a298d8b1436bc67
+      internalID: -1190036903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upg-WallTower_buttom
+      rect:
+        serializedVersion: 2
+        x: 3947
+        y: 1933
+        width: 972
+        height: 926
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74823c1424ce9ca4385679feb9f06804
+      internalID: -1985791147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower Defens_24
+      rect:
+        serializedVersion: 2
+        x: 4988
+        y: 2064
+        width: 895
+        height: 710
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9627c87029aa4774d95e840686f072e5
+      internalID: -103212122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower Defens_25
+      rect:
+        serializedVersion: 2
+        x: 5991
+        y: 2064
+        width: 895
+        height: 710
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81da19d6361e2df45bdb1d619377dd99
+      internalID: 273803163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Placement
+      rect:
+        serializedVersion: 2
+        x: 7001
+        y: 1972
+        width: 866
+        height: 871
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e02314646a8f24c8ded073ab34938f
+      internalID: -947365571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ball
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 835
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a41edf2ab02cd479de09b7b1789928
+      internalID: -2036420022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Triangle
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 993
+        width: 925
+        height: 821
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90382053176676a4f9ddba18de4255e5
+      internalID: -820390590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Square
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 993
+        width: 960
+        height: 779
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d563c62eab0154d4c89d74c9f2c31cbf
+      internalID: 784698624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 932
+        width: 768
+        height: 973
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d51bc2418fc1b4db49af522d644c9e
+      internalID: -455984827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aim
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 975
+        width: 870
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824143d63c997ed42ad39c5f00ee5828
+      internalID: 80401161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Finish
+      rect:
+        serializedVersion: 2
+        x: 5003
+        y: 977
+        width: 864
+        height: 864
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a208569be9c3b1f41a3ac7a8c04ff9c6
+      internalID: -873403195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass
+      rect:
+        serializedVersion: 2
+        x: 5998
+        y: 974
+        width: 872
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a217f97a37814240baa552745f59809
+      internalID: 149318411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ground
+      rect:
+        serializedVersion: 2
+        x: 7017
+        y: 979
+        width: 838
+        height: 837
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b018d35e465164387e271fb395c1b6
+      internalID: 1464521908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cannon-Card
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 703
+        height: 851
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d7bffc72f4f71478cbd98ff6583177
+      internalID: 868460434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bomber-Card
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 702
+        height: 847
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3bacca9de44bc4e93f1f2cc4d847a1
+      internalID: 312520502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roket-Card
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 0
+        width: 702
+        height: 843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2187b84cdd2933c4fae8f770cf97746c
+      internalID: 550896744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Artillery-Card
+      rect:
+        serializedVersion: 2
+        x: 3090
+        y: 0
+        width: 703
+        height: 843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6404308dd3e6099408a4386d25f8bb44
+      internalID: 116886521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall-Card
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 0
+        width: 703
+        height: 843
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c407fdf753fb4ca7de442c6f63167
+      internalID: 837880108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Upgrade-Card
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 0
+        width: 699
+        height: 839
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a9a1d090512374d959e4836af537fc
+      internalID: 510405513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Coin
+      rect:
+        serializedVersion: 2
+        x: 6198
+        y: 148
+        width: 472
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35d92abe46b28439f15e7f8cbf5365
+      internalID: -1691978064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aim: 80401161
+      Artillery: -1914052523
+      Artillery-Card: 116886521
+      Artillery-Emty: -249976465
+      Ball: -2036420022
+      Big-Bomb: -1807665615
+      Bomb: -1779602648
+      Bomber: -455984827
+      Bomber-Card: 312520502
+      Bomber_buttom: -463522651
+      Bullet: 410356244
+      Cannon-Card: 868460434
+      Cannon_buttom: 116372143
+      Cannon_launcher: 57379982
+      Coin: -1691978064
+      Finish: -873403195
+      Fire-1: -432968431
+      Fire-2: -380943373
+      Grass: 149318411
+      Ground: 1464521908
+      Little-Roket: -172755573
+      Placement: -947365571
+      Roket: 1004984855
+      Roket-Card: 550896744
+      Roket_bottom: 26762924
+      Roket_launcher: 523132050
+      Square: 784698624
+      Tower Defens_24: -103212122
+      Tower Defens_25: 273803163
+      Tower Defens_32: 1497896222
+      Tower Defens_33: -320983213
+      Tower Defens_37: 611358002
+      Tower Defens_38: 565927576
+      Triangle: -820390590
+      Upg-Artillery: -29594619
+      Upg-Artillery-Emty: 754016126
+      Upg-Bomber_buttom: -1190036903
+      Upg-Cannon_buttom: 1506190129
+      Upg-Cannon_launcher: -77333604
+      Upg-Roket: 1634560760
+      Upg-Roket_bottom: -1914052523
+      Upg-Roket_launcher: -1243196426
+      Upg-WallTower_buttom: -1985791147
+      Upgrade-Card: 510405513
+      Wall-Card: 837880108
+      WallTower_buttom: -344024371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,54 @@
+{
+    "name": "InputControls",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "e2b40d45-b8ae-496a-bc63-a3730a924921",
+            "actions": [
+                {
+                    "name": "LeftMouseClick",
+                    "type": "Button",
+                    "id": "1ecaf697-5bf5-47b0-9f9b-4534a9012dff",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RightMouseClick",
+                    "type": "Button",
+                    "id": "199a09d0-fabf-4ae6-bd40-807dd43c47e6",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c7428a39-6990-4a93-8e8a-b9285d0b2f4b",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftMouseClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "3256c420-2a3c-4b8e-b9b2-bfc508bc7c01",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RightMouseClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

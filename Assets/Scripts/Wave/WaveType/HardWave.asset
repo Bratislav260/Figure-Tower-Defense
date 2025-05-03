@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8813a8f5eb65b3849872ee2e35bec1f7, type: 3}
+  m_Name: HardWave
+  m_EditorClassIdentifier: 
+  <WaveType>k__BackingField: 1
+  <waveSpeed>k__BackingField: 3
+  <unitsAmount>k__BackingField: 8
+  unitsPercentages:
+    _serializedList:
+    - Key: {fileID: 644086857013561952, guid: 91dad3aa4b2b4484b9cf4203c72a51b5, type: 3}
+      Value: 60
+    - Key: {fileID: -7968047934452824877, guid: 783cbd6fc469aa446bd148193fb7a74f, type: 3}
+      Value: 40
